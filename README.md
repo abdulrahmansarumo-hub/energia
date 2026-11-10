@@ -72,3 +72,14 @@ To stop the services, press Ctrl+C and run `docker compose down`. To also remove
 10. **Verification and deployment:** testing, documentation, and deployment preparation.
 
 Each milestone must keep demonstration data clearly identified, record dataset provenance, and distinguish projections from measured outcomes. No real-world statistic, integration, or geographic boundary should be represented as verified without a credible source.
+
+## Original Streamlit prototype
+
+The original prototype is preserved in [`app.py`](./app.py) for reference and defense demonstrations. Run it from the project root with:
+
+```powershell
+python -m pip install -r requirements-prototype.txt
+python -m streamlit run app.py
+```
+
+**Data caveat:** This archived prototype contains hard-coded example figures and broad source labels. The underlying figures and their source attribution have not been independently verified. Do not present them as verified national statistics. The React dashboard separately labels all sample data as demo data.

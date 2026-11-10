@@ -2,7 +2,7 @@
 
 ENERGIA is an energy-access intelligence platform for Nigeria, designed to expand across Africa. It is intended to help public institutions, development partners, analysts, and project developers assess energy needs and plan interventions using transparent, sourced information.
 
-> **Development status:** Stage 1 foundation only. The current frontend is a branded scaffold and the API exposes a liveness endpoint. No external data source is connected, and no energy statistics or project estimates are presented as verified facts.
+> **Development status:** Stages 1–2 complete. The frontend has a responsive dashboard with fictional demo examples; the API exposes a liveness endpoint. No external data source is connected, and no energy statistics or project estimates are presented as verified facts.
 
 ## Project structure
 
